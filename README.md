@@ -1,4 +1,9 @@
 # Jenkins Essential Training
+protected
+http://ec2-18-224-29-238.us-east-2.compute.amazonaws.com/job/NewScript_Execution/badge/icon
+unprotected
+http://ec2-18-224-29-238.us-east-2.compute.amazonaws.com/buildStatus/icon?job=NewScript_Execution
+Markdown
 This is the repository for the LinkedIn Learning course Jenkins Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Jenkins Essential Training][lil-thumbnail-url] 
