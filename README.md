@@ -1,8 +1,5 @@
 # Jenkins Essential Training
-protected
-[Build Status](http://ec2-18-224-29-238.us-east-2.compute.amazonaws.com/job/NewScript_Execution/badge/icon) "http://ec2-18-224-29-238.us-east-2.compute.amazonaws.com/job/NewScript_Execution/")
-unprotected
-[Build Status](http://ec2-18-224-29-238.us-east-2.compute.amazonaws.com/buildStatus/icon?job=NewScript_Execution "http://ec2-18-224-29-238.us-east-2.compute.amazonaws.com/job/NewScript_Execution/")
+[![Build Status](http://ec2-18-224-29-238.us-east-2.compute.amazonaws.com/buildStatus/icon?job=NewScript_Execution)](http://ec2-18-224-29-238.us-east-2.compute.amazonaws.com/job/NewScript_Execution/)
 
 This is the repository for the LinkedIn Learning course Jenkins Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
