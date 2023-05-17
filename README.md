@@ -11,6 +11,8 @@ Learn about the core functions of Jenkins, progressing from intermediate to more
 ## Added test content
 ## Added Test content 02
 ## Added Test content 03
+## Added Test content 04
+
 ## Installing
 1. To use these exercise files, you must have one of the following versions of Jenkins installed:
     - Jenkins 2.332.2 LTS or newer
